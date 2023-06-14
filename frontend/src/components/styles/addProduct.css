@@ -1,0 +1,15 @@
+/* ------------------------ add product ------------------------ */
+
+.add__product {
+    background-color: #00623B;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 22.5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.add__product:hover {
+    background-color: #004A2D;
+}
